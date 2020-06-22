@@ -1,0 +1,91 @@
+*
+{
+	box-sizing: border-box;
+}
+body
+{   font-family: 'Lora',sans-serif;
+	background-color: #f2837c;
+	
+	font-color: #b5e1f7;
+	width:100%;
+
+}
+section {
+	
+	background-color: white;
+	width: 100%;
+	height: auto;
+	clear: both;
+	display: inline-block;
+	position: relative;
+	overflow: auto;
+}
+
+
+.change
+{
+font-size: 40px;
+height:94px;
+}
+#header-nav{
+	background-color: grey;
+	border-radius: 0px;
+	border: 0px;
+}
+.navbar-brand
+{
+	padding: 25px;
+}
+.navbar-brand h1
+{
+	font-family: 'Lora', serif;
+	color: white;
+	font-size: 3.5rem;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-decoration: none;
+	line-height: 0.75;
+	font-weight: bold;
+	margin-left: 0px 0px 0px 0px;
+}
+
+.container
+{
+	width:100%;
+}
+
+
+#nav-list {
+
+  margin-top: 10px;
+}
+#nav-list a {
+  color: white;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: black;
+}
+
+
+
+.special_prop
+{
+	background-color: white;
+	font-family: 'Lora',sans-serif;
+	font-size: 25px;
+	margin-top:10px ;
+	margin-bottom:10px;
+	margin-left: 10px
+	margin-right: -10px;
+	
+	
+}
+p
+{
+	font-color:#120f0f;
+	padding: 10px;
+}
+
+
